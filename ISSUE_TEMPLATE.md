@@ -44,7 +44,13 @@ Fill me in...
 
 ### Steps to reproduce the problem
 
+Be sure to restart the page to start from a clean state and explains all steps to reproduce the problem if you can.
+
 Fill me in...
+
+### Browser console output
+
+If you can, copy the browser console output...
 
 ### Attachments
 
